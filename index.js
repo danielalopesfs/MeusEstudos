@@ -15,7 +15,6 @@ const bancoDeDados = {
     sobrenome: 'Moura',
     idade: 26,
     profissao: 'dev',
-    namorada: 'besta',
     endereco: {
         rua: 'Ubá',
         numero: 59,
